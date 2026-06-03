@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack web development projects (MERN)<br>👯 I’m looking to collaborate on open-source projects and innovative web apps<br>🤝 I’m looking for help with scaling applications and backend architecture<br>🌱 I’m currently learning Backend, system design, and DSA<br>💬 Ask me about React, C++, problem solving, and web development<br>⚡ Fun fact: I love solving coding problems
+🔭 I’m currently working on full-stack web development projects (MERN)<br>👯 I’m looking to collaborate on open-source projects and innovative web apps<br>🤝 I’m looking for help with scaling applications and backend architecture<br>🌱 I’m currently learning Backend, system design, and DSA<br>💬 Ask me about React, C++, problem solving, and web development
 
 
 ## 🌐 Socials:
